@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Online Banking System</title>
+    <title>ONLINE BANKING SYSTEM</title>
 </head>
 <body>
 
-<h2>Online Banking System</h2>
+<h2>ONLINE BANKING SYSTEM</h2>
 
-<a href="deposit.php">Deposit Money</a><br><br>
-<a href="withdraw.php">Withdraw Money</a><br><br>
-<a href="view.php">View Accounts & Transactions</a>
+<a href="deposit.php">DEPOSIT MONEY</a><br><br>
+<a href="withdraw.php">WITHDRAW MONEY</a><br><br>
+<a href="view.php">VIEW ACCOUNTS AND TRANSACTIONS</a>
 
 </body>
 </html>
